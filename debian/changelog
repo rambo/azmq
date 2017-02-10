@@ -1,0 +1,5 @@
+azmq (0.1.20160211-1) unstable; urgency=low
+
+  * Initial debianization
+
+ -- Eero af Heurlin <eero.afheurlin@iki.fi>  Fri, 10 Feb 2017 16:25:01 +0200

@@ -1,3 +1,15 @@
+# OSX stuff
+._*
+.DS_Store
+
+
+# dpkg-buildpackage
+debian/azmq
+debian/azmq.debhelper.log
+debian/azmq.substvars
+debian/azmq.*.debhelper
+debian/files
+
 # Compiled Object files
 *.slo
 *.lo
